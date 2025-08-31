@@ -1,0 +1,6 @@
+# No external libraries are required to run this project.
+# The following are standard Python libraries used in the script:
+# random
+# pickle
+# time
+# tkinter
